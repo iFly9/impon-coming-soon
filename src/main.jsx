@@ -12,7 +12,13 @@ function App() {
 
       <section className="hero">
         <div className="brand">
-          <img className="logo symbol" src="/impon-coming-soon/public/logos/logo.png" alt="IMPON logo" />
+         
+<img
+  className="logo symbol"
+  src="/impon-coming-soon/logos/logo.png"
+  alt="IMPON logo"
+/>
+
           <span className="wordmark">IMPON</span>
         </div>
         <div className="rule"><span>✦</span></div>
