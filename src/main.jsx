@@ -15,7 +15,7 @@ function App() {
          
 <img
   className="logo symbol"
-  src="/impon-coming-soon/logos/logo.png"
+  src="/logos/logo.png"
   alt="IMPON logo"
 />
 
